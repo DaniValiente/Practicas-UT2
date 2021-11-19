@@ -50,7 +50,7 @@
             <TableView fx:id="tabla" layoutX="33.0" layoutY="518.0" prefHeight="297.0" prefWidth="414.0">
                <columns>
                   <TableColumn fx:id="nickname" prefWidth="89.0" text="Nickname" />
-                  <TableColumn fx:id="comentarios" prefWidth="324.0" text="Comentarios" />
+                  <TableColumn fx:id="comentario" prefWidth="324.0" text="Comentarios" />
                </columns>
             </TableView>
             <TextArea fx:id="area" layoutX="94.0" layoutY="892.0" prefHeight="94.0" prefWidth="329.0" promptText="Escriba aqui su comentario...." />
